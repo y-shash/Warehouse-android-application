@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Warehouse Inventory App</string>
+    <string name="input1">""</string>
+    <string name="description">Description</string>
+    <string name="cost">Cost</string>
+    <string name="quantity">Quantity</string>
+    <string name="item">Item</string>
+    <string name="frozen">Frozen Item?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <!--    <string name="topthingy">Warehouse Inventory App</string>-->
+    <string name="add_item_text">Add New Item</string>
+    <string name="clear_item_text">Clear All Items</string>
+    <string name="navigation_drawer_open">nav_drawer_open</string>
+    <string name="navigation_drawer_close">nav_drawer_close</string>
+    <string name="list_items">List items</string>
+</resources>
